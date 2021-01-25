@@ -6,7 +6,7 @@ JDK 1.8 minimum
 Maven build tool
 
 
-Instructions for execution in Windos:
+Instructions for execution in Windows:
 Application run in command line. 
 Navigate to root directory and package the application (run - "mvn package")
 When complete navigate to the target directory (cd target)
